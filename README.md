@@ -24,3 +24,8 @@ Este é um projeto estratégico de **People Analytics** focado em resolver dores
 * **Interface e UI/UX:** Layout dinâmico em *Dark Mode*, contêineres translúcidos com sombreamento e menu *Index* integrado via navegadores de página nativos.
 
 ---
+<img width="1157" height="653" alt="Captura de tela 2026-06-16 232634" src="https://github.com/user-attachments/assets/6ad2de05-60be-40fe-9ae3-02585fc01237" />
+<img width="1148" height="652" alt="Captura de tela 2026-06-16 232623" src="https://github.com/user-attachments/assets/8e2be304-a21d-4833-8765-ffbfa54dea8b" />
+<img width="1150" height="647" alt="Captura de tela 2026-06-16 232607" src="https://github.com/user-attachments/assets/b7f85c8d-0b22-4f86-8581-8bb93beb8410" />
+<img width="1152" height="652" alt="Captura de tela 2026-06-16 232546" src="https://github.com/user-attachments/assets/4d59dca5-2b96-459a-9132-26acd0adb88d" />
+<img width="1152" height="651" alt="Captura de tela 2026-06-16 232644" src="https://github.com/user-attachments/assets/7e82b36e-c05d-4d3b-a6fe-6edb8f93d06e" />
